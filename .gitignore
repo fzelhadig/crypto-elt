@@ -19,4 +19,4 @@ airflow/airflow.cfg
 airflow/webserver_config.py
 airflow/standalone_admin_password.txt
 
-# dbt
+# dbtlogs/
