@@ -1,0 +1,7 @@
+dbt_project:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/crypto.duckdb  # relative to dbt_project folder
+      schema: transforms

@@ -1,0 +1,1 @@
+{"_invocation_id": "68813e8c-da3c-4036-a401-a10cc1c65e6a", "linked": {"0": {"name": "model.dbt_project.candlesticks_daily", "type": "model"}, "1": {"name": "model.dbt_project.stg_crypto_prices", "type": "model", "succ": [0]}}}
